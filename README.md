@@ -1,7 +1,7 @@
 # Java Console Calculator
 
 ## Project Description
-This is a simple console-based calculator built using Java.
+This is a simple console-based calculator built using Java for a Java Developer Internship task.
 It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
