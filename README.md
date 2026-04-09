@@ -39,3 +39,7 @@ Enter first number: 10
 Enter second number: 5
 
 Result = 15
+
+## Program Output
+
+![Calculator Output](output.png)
