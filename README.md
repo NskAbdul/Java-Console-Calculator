@@ -1,6 +1,7 @@
 # Java Console Calculator
 
 ## Project Description
+This project is developed as part of the Java Developer Internship Task 1.
 This is a simple console-based calculator built using Java for a Java Developer Internship task.
 It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
